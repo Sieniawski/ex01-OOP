@@ -1,0 +1,7 @@
+C:\Users\Wojciech\source\repos\klasy 20181007\klasy 20181007\obj\Debug\klasy 20181007.csprojAssemblyReference.cache
+C:\Users\Wojciech\source\repos\klasy 20181007\klasy 20181007\obj\Debug\klasy 20181007.csproj.CoreCompileInputs.cache
+C:\Users\Wojciech\source\repos\klasy 20181007\klasy 20181007\bin\Debug\klasy 20181007.exe.config
+C:\Users\Wojciech\source\repos\klasy 20181007\klasy 20181007\bin\Debug\klasy 20181007.exe
+C:\Users\Wojciech\source\repos\klasy 20181007\klasy 20181007\bin\Debug\klasy 20181007.pdb
+C:\Users\Wojciech\source\repos\klasy 20181007\klasy 20181007\obj\Debug\klasy 20181007.exe
+C:\Users\Wojciech\source\repos\klasy 20181007\klasy 20181007\obj\Debug\klasy 20181007.pdb
